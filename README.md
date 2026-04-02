@@ -1,4 +1,4 @@
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm [Ahmad Alhussein](https://ahmadalhussein599.vercel.app/) 👋
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
@@ -12,7 +12,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
+I am a Software Engineer skilled in React, Next.js, PHP,Laravel, and more. <br/>
 I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
 
 
