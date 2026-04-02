@@ -33,13 +33,13 @@ Frontend (React / Next.js) & Backend APIs (Laravel)
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmadalhsen599&show_icons=true&theme=github_dark" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadalhsen599&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmadalhsen599&theme=github-dark" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahmadalhsen599&theme=github-dark&hide_border=true" />
+</p>
 
 
 ## 🔗 Connect with Me
