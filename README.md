@@ -21,7 +21,8 @@ I focus on writing clean, maintainable code and continuously improving my skills
 
 
 <br clear="right"/>
-## 💡 Currently focused on: Frontend (React / Next.js) & Backend APIs (Laravel)
+## 💡 Currently 
+focused on: Frontend (React / Next.js) & Backend APIs (Laravel)
 ## 🔧 My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
