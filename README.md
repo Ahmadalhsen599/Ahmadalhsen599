@@ -16,7 +16,6 @@ I have developed real-world projects including RESTful APIs, interactive platfor
 I focus on writing clean, maintainable code and continuously improving my skills in software engineering, system design, and modern web technologies.
 <br clear="right"/>
 
-
 ## 💡 Currently Focused On
 Frontend (React / Next.js) & Backend APIs (Laravel)
 
