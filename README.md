@@ -38,11 +38,7 @@ I focus on writing clean, maintainable code and continuously improving my skills
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadalhsen599&layout=compact&theme=dark" />
 </div>
 
-## 🎯 LeetCode Heatmap
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</div>
 
 
 ## 🔗 Connect with Me
