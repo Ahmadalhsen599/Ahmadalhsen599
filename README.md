@@ -25,7 +25,7 @@ I focus on writing clean, maintainable code and continuously improving my skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![python](https://img.shields.io/badge/Node.js-339933?logo=python&logoColor=white)
+![python](https://img.shields.io/badge/Python-339933?logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/MongoDB-47A248?logo=laravel.php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
