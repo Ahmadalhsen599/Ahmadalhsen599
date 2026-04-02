@@ -1,4 +1,4 @@
-# Hey there, I'm [Ahmad Alhussein](https://ahmadalhussein599.vercel.app/) 👋
+# Hey there, I'm [Ahmed Al-Hussein](https://ahmadalhussein599.vercel.app/) 👋
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
@@ -11,16 +11,17 @@
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+I am a Software Engineer specializing in building modern web applications using React, Next.js, PHP, and Laravel.
 
-I am a Software Engineer specializing in Frontend and Backend development using React, Next.js, PHP, and Laravel.
-I have built real-world applications including RESTful APIs, interactive platforms, and responsive user interfaces.
+I have developed real-world projects including RESTful APIs, interactive platforms, and responsive user interfaces.
+
 I focus on writing clean, maintainable code and continuously improving my skills in software engineering, system design, and modern web technologies.
 
 
 
 
 <br clear="right"/>
-
+## 💡 Currently focused on: Frontend (React / Next.js) & Backend APIs (Laravel)
 ## 🔧 My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -35,7 +36,7 @@ I focus on writing clean, maintainable code and continuously improving my skills
 ## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadalhsen599&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmadalhsen599&show_icons=true&theme=dark" />
 </div>
 
 
