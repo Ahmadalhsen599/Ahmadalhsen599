@@ -15,6 +15,8 @@ I am a Software Engineer specializing in building modern and scalable web applic
 I have developed real-world projects including RESTful APIs, interactive platforms, and responsive user interfaces.
 I focus on writing clean, maintainable code and continuously improving my skills in software engineering, system design, and modern web technologies.
 <br clear="right"/>
+
+
 ## 💡 Currently Focused On
 Frontend (React / Next.js) & Backend APIs (Laravel)
 
